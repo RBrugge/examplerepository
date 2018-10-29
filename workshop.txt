@@ -1,7 +1,4 @@
 I am learning to do version control.
 
-<<<<<<< HEAD
-Lili changed one line.
-=======
-Lili is changing one line.
->>>>>>> cd6cfa3efdff2e59d4ddbde779d80bca95661041
+Lili changed one line
+
